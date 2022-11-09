@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jurgis.andziulis@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/ugis90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ugis90" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user2225m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2225m" height="30" width="40" /></a>
